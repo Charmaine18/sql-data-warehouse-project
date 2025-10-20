@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+ # Data Warehouse and Analytics Project
 
 Welcome to  the **Data Warehouse and Analytics Project** repository!
 This ptoject demonstrates a comprehensive data warehouse and analytics solution ,from building a data warehouse to generating actionable insights.Designed as a portifolio project highlights industry practises in data engineering and analytics
@@ -30,4 +30,7 @@ Develop SQL-based anaytics to deliver detailed insights into:
 **Sales Trends**
 
 These insights empower stakehiolders with key business metrics,enabling strategics decison making.
+
+## About Me 
+Hi there! Im **Mkhabela Charmaine**. Im an enthusiastic and curious Data Science major currently pursuing a degree in Information Technology. Skilled in data analysis, programming, and problem-solving, with a passion for learning emerging technologies such as artificial intelligence and cloud computing. I am seeking an opportunity or entry-level position where I can apply my academic knowledge, contribute to team projects, and gain valuable industry experience.
 
